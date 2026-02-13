@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Técnico en Programación de Software | Proximo tecnolog en analsis y desarrollo de software <br>
+  Técnico en Programación de Software | Proximo tecnologo en analsis y desarrollo de software <br>
   Apasionado por el desarrollo web, diseño de interfaces y resolución de retos técnicos. <br>
 </p>
 

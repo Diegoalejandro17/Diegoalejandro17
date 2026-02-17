@@ -54,7 +54,7 @@ Trabajo constantemente en fortalecer mis fundamentos y habilidades para enfrenta
 ## 📁 Proyectos destacados
 
 - 🎯 [WorldSkills Módulo A - Speed Test](https://github.com/Diegoalejandro17/entrenamiento-worldskills)
-- 💡 [WisdomX](https://wisdomx01.free.nf/HTML/index.html)
+- 💡 [WisdomX](https://github.com/Diegoalejandro17/WisdomX)
 - 🧠 [Gestión de medallería Olimpiadas (Laravel + React)](https://github.com/Diegoalejandro17/Gestion-de-medallas-y-pasies-)
 - 📱 [Sistema de autenticación móvil con React Native](https://github.com/Diegoalejandro17/Sistema-de-autenticacion-movil-con-React-Native)
 

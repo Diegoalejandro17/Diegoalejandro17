@@ -17,7 +17,7 @@
 Me apasiona crear soluciones digitales modernas, accesibles y de alto rendimiento utilizando HTML, CSS, JavaScript y otras tecnologías emergentes.  
 Trabajo constantemente en fortalecer mis fundamentos y habilidades para enfrentar desafíos reales en el mundo profesional del desarrollo de software.
 
-## 🛠️ Tecnología
+## 🛠️ Tecnologías
 
 ### Lenguajes, frameworks y herramientas que manejo o estoy aprendiendo:
 

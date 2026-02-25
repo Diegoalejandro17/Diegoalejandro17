@@ -63,4 +63,4 @@ Trabajo constantemente en fortalecer mis fundamentos y habilidades para enfrenta
 
 ## 📜 Licencia
 
-Este perfil y sus contenidos están desarrollados con fines educativos y de autoaprendizaje en el mundo del desarrollo de software.
+Este perfil y sus contenidos están desarrollados con fines educativos y de autoaprendizaje en el mundo real del desarrollo de software.

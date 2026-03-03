@@ -56,8 +56,8 @@ Trabajo constantemente en fortalecer mis fundamentos y habilidades para enfrenta
 
 ## 📁 Proyectos destacados
 
-- 🧠 [Gestión de medallería Olimpiadas (Laravel + React)](https://github.com/Diegoalejandro17/Gestion-de-medallas-y-pasies-)
 - 🎖️ [Prueba Regional Worldskills 2025 (Laravel + React )](https://github.com/Diegoalejandro17/worldskills-pruebaregional-2025)
+- 🧠 [Gestión de medallería Olimpiadas (Laravel + React)](https://github.com/Diegoalejandro17/Gestion-de-medallas-y-pasies-)
 - 📱 [Sistema de autenticación móvil con React Native](https://github.com/Diegoalejandro17/Sistema-de-autenticacion-movil-con-React-Native)
 - 🎯 [WorldSkills Módulo A - Speed Test](https://github.com/Diegoalejandro17/entrenamiento-worldskills)
 

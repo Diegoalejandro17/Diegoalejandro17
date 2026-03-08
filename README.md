@@ -11,7 +11,7 @@
 
 # 🔎 Sobre mí
 
-🎓 Soy Técnico en Programación de Software y actualmente estoy a la espera de mi titulo en el Tecnólogo en Análisis y Desarrollo de Software en el SENA. También cuento con múltiples certificaciones en el uso de nuevas tecnologías e inglés.  
+🎓 Soy Técnico en Programación de Software y proximo Tecnólogo en Análisis y Desarrollo de Software en el SENA. También cuento con múltiples certificaciones en el uso de nuevas tecnologías e inglés.  
 💡 Estoy en proceso de formación para convertirme en Ingeniero de Software, con un enfoque fuerte en desarrollo web, lógica y arquitectura de aplicaciones modernas.   
 
 Me apasiona crear soluciones digitales modernas, accesibles y de alto rendimiento utilizando HTML, CSS, JavaScript y otras tecnologías emergentes.  

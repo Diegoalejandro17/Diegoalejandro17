@@ -6,7 +6,7 @@
 
 <p align="center">
   Técnico en Programación de Software | Proximo tecnólogo en analsis y desarrollo de software <br>
-  Apasionado por el desarrollo web, diseño de interfaces y resolución de retos técnicos. <br>
+  Apasionado por el desarrollo web, diseño de interfaces y resolución de retos técnicos. ingenieria de software <br>
 </p>
 
 # 🔎 Sobre mí

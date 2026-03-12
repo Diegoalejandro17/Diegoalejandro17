@@ -59,6 +59,7 @@ Trabajo constantemente en fortalecer mis fundamentos y habilidades para enfrenta
 ![InfinityFree](https://img.shields.io/badge/InfinityFree-FF6C2C?style=flat-square&logo=infinityfree&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 
 ## 📁 Proyectos destacados
 

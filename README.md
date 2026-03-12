@@ -57,6 +57,7 @@ Trabajo constantemente en fortalecer mis fundamentos y habilidades para enfrenta
 ![InfinityFree](https://img.shields.io/badge/InfinityFree-FF6C2C?style=flat-square&logo=infinityfree&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 ## 📁 Proyectos destacados
 

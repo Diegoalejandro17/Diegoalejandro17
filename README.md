@@ -70,6 +70,34 @@ Trabajo constantemente en fortalecer mis fundamentos y habilidades para enfrenta
 - 📱 [Sistema de autenticación móvil con React Native](https://github.com/Diegoalejandro17/Sistema-de-autenticacion-movil-con-React-Native)
 - 🎯 [WorldSkills Módulo A - Speed Test](https://github.com/Diegoalejandro17/entrenamiento-worldskills)
 
+  ---
+
+## 📊 Mis Estadísticas
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Diegoalejandro17&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diegoalejandro17&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Diegoalejandro17&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Diegoalejandro17&theme=tokyo-night&hide_border=true&area=true" />
+</div>
+
+---
+
+<div align="center">
+
+### 💬 ¿Tienes un proyecto en mente? ¡Hablemos!
+
+[![LinkedIn](https://img.shields.io/badge/Conectemos_en_LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU-USUARIO)
+[![Gmail](https://img.shields.io/badge/Escríbeme_un_correo-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TU-CORREO@gmail.com)
+
+<br/>
+
 ## 📜 Licencia
 
 Este perfil y sus contenidos están desarrollados con fines educativos y de autoaprendizaje en el mundo real del desarrollo de software.

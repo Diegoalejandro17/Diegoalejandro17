@@ -94,8 +94,8 @@ Trabajo constantemente en fortalecer mis fundamentos y habilidades para enfrenta
 
 ### 💬 ¿Tienes un proyecto en mente? ¡Hablemos!
 
-[![LinkedIn](https://img.shields.io/badge/Conectemos_en_LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU-USUARIO)
-[![Gmail](https://img.shields.io/badge/Escríbeme_un_correo-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TU-CORREO@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Conectemos_en_LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-alejandro-paloma-diaz-ab4008308/)
+[![Gmail](https://img.shields.io/badge/Escríbeme_un_correo-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diegoalejandropalomadiaz576@gmail.com)
 
 <br/>
 

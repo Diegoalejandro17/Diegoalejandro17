@@ -1,7 +1,7 @@
 <h1 align="center">Hola, soy Diego Alejandro Paloma Díaz 👋</h1>
 
 <p align="center">
-  <img src="banner.png" alt="Banner Diego Alejandro Paloma Díaz" width="100%" />
+  <img src="banner2.png" alt="Banner Diego Alejandro Paloma Díaz" width="100%" />
 </p>
 
 <p align="center">

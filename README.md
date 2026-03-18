@@ -10,7 +10,7 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](in/diego-alejandro-paloma-diaz-ab4008308)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-alejandro-paloma-diaz-ab4008308/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TU-CORREO@gmail.com)
 [![Portafolio](https://img.shields.io/badge/Portafolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://TU-PORTAFOLIO.vercel.app)
 [![Profile Views](https://komarev.com/ghpvc/?username=Diegoalejandro17&style=for-the-badge&color=00D9FF&label=VISITAS)](https://github.com/Diegoalejandro17)

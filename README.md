@@ -101,7 +101,7 @@ Trabajo constantemente en fortalecer mis fundamentos y habilidades para enfrenta
 [![Gmail](https://img.shields.io/badge/Escríbeme_un_correo-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diegoalejandropalomadiaz576@gmail.com)
 
 <br/>
--- 
+---
 
 ## 📜 Licencia
 

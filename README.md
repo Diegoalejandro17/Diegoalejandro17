@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy Diego Alejandro Paloma Díaz 👋</h1>
+<h1 align="center">Hola, soy Diego Alejandro Paloma Díaz </h1>
 
 <p align="center">
   <img src="banner4.png" alt="Banner Diego Alejandro Paloma Díaz" width="100%" />
